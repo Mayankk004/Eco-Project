@@ -7,3 +7,4 @@
 ('total_rainfall', 6.758825942065243)
 ('average_rainfall', 4.273919292277242)
 ('salinity_alkalinity_percent', 0.0)
+('unirrigatedarea1000hecatres', 4.681705211392402)
