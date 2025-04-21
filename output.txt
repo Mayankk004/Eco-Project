@@ -4,7 +4,6 @@
 ('nitrogenconsumptiontonnes', 11.42351484846955)
 ('phosphateconsumptiontonnes', 10.887175216396335)
 ('potashconsumptiontonnes', 9.740556773534106)
-('production1000tonnes', 3.829293336104188)
 ('total_rainfall', 861.62999818)
 ('average_rainfall', 71.80249984833334)
 ('salinity_alkalinity_percent', 1.0)
